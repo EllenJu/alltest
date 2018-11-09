@@ -1,0 +1,37 @@
+{
+  "name": "bc-homepage-2016",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "hajay"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bc-test"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-cookies": "#1.5.8",
+    "angular-ui-router": "ui-router#^0.3.0",
+    "oclazyload": "ocLazyLoad#^1.0.9",
+    "highcharts-ng": "^0.0.11",
+    "angular-mocks": "^1.5.7",
+    "angular-sanitize": "1.5.8",
+    "clipboard": "^1.5.12",
+    "angular-drag-and-drop-lists": "^1.4.0",
+    "ng-file-upload-shim": "^12.0.4",
+    "ng-file-upload": "^12.0.4",
+    "jquery": "^1.12.0",
+    "lodash": "^4.17.10",
+    "angular-loading-bar": "^0.9.0",
+    "highcharts": "^6.1.1",
+    "moment": "^2.22.2",
+    "angular-gridster": "^0.13.15",
+    "angular-resource": "#1.5.8",
+    "angular-local-storage": "^0.7.1"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}

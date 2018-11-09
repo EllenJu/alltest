@@ -1,0 +1,23 @@
+{
+  "name": "bc-homepage-2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "fis3 release -d ../bh2016-release -wl",
+    "make": "fis3 release -d ../bh2016-release"
+  },
+  "keywords": [
+    "bc-test"
+  ],
+  "author": "hajay",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard": "^1.5.12",
+    "fis-parser-less": "^0.1.3",
+    "fis-preprocessor-annotate": "0.0.2",
+    "fis3-hook-module": "^1.2.2",
+    "fis3-postpackager-loader": "^1.3.19"
+  }
+}
